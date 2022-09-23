@@ -1,4 +1,4 @@
-# facerec
+# FACEREC
 A facial recognition portal based on facial_recognition library of Python.
 
 We took part in the Goa Police Hackathon 2022. As part of thus we have developed a very basic facial recognition based portal.
