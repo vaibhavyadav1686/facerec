@@ -11,6 +11,9 @@ We took part in the Goa Police Hackathon 2022. As part of thus we have developed
 To build a face recognition based solution to establish the identity of the person based on matching with a
 database of arrested persons, missing persons, tenants and unidentified dead bodies.
 
+![Goa Police Hackathon](https://user-images.githubusercontent.com/111295749/192036814-0af292f7-5a10-4667-9723-746c63781110.jpg)
+
+
 ## Explanation of Problem Statement
 
 We all know that Police is modernising their surveillance and security techniques rapidly, thus there is a new
@@ -49,5 +52,3 @@ found or not the following occurs:
 allowing to display loosely matched records.
   * If still no match is found, a pop up box displays “No match found”. On clicking the “OK” button, the
 page is redirected to the Identification page.
-
-![Goa Police Hackathon](https://user-images.githubusercontent.com/111295749/192036222-495ecd92-29ee-4ead-a2fa-97737f65b3d0.jpg)
