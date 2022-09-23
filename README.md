@@ -52,3 +52,7 @@ found or not the following occurs:
 allowing to display loosely matched records.
   * If still no match is found, a pop up box displays “No match found”. On clicking the “OK” button, the
 page is redirected to the Identification page.
+
+## Presentation
+The attached Presentation was given with working demo of Solution Portal
+[Goa Police Hackathon - void men().pptx](https://github.com/vaibhavyadav1686/facerec/files/9636485/Goa.Police.Hackathon.-.void.men.pptx)
